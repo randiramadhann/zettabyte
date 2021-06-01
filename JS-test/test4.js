@@ -50,7 +50,7 @@ const students = [
 const schoolId = '2';
 
 function result(students, schoolId) {
-  // Your Code Here
+  z
 }
 
 console.log(result(students, schoolId));

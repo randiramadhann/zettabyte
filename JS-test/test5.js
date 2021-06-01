@@ -3,7 +3,7 @@
 const number = 221;
 
 function result(num) {
-  // Your Code Here
+  return Math.floor(Math.log2(number)-1);
 }
 
 console.log(result(number));
